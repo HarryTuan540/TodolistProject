@@ -1,0 +1,33 @@
+.Tasklist{
+    background-color: gainsboro;
+    text-align: center;
+    padding:10px;
+    height:628px;
+}
+
+.container{
+    border:1px solid gray;
+    border-radius: 2%;
+    width:60%;
+    margin-left:20%;
+    margin-top:5%;
+}
+
+.row1{
+    border:1px solid gray;
+    background-color: rgb(221, 220, 220);
+    color: rgb(160, 158, 158);
+    padding: 2px;
+}
+
+.row{
+    border:1px solid gray;
+    background-color: white;
+    color:black;
+    padding: 2px;
+}
+
+
+
+
+
